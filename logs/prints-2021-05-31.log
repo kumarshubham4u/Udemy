@@ -1,0 +1,58 @@
+11:37:06.582 [main] DEBUG resources.baseTest - Clicking on Login link
+11:37:15.017 [main] INFO  resources.baseTest - Login Link is clicked
+11:37:15.018 [main] DEBUG resources.baseTest - Sending keys in email field
+11:37:52.844 [main] INFO  resources.baseTest - Initializing Browser
+11:37:56.955 [main] INFO  resources.baseTest - Maximizing Window
+11:37:57.109 [main] INFO  resources.baseTest - Deleting All Cookies
+11:37:57.128 [main] INFO  resources.baseTest - Assigning Implicit Wait
+11:37:57.137 [main] INFO  resources.baseTest - Hitting URL : https://www.udemy.com/
+11:39:44.258 [main] INFO  resources.baseTest - Initializing Browser
+11:39:48.497 [main] INFO  resources.baseTest - Maximizing Window
+11:39:48.654 [main] INFO  resources.baseTest - Deleting All Cookies
+11:39:48.669 [main] INFO  resources.baseTest - Assigning Implicit Wait
+11:39:48.680 [main] INFO  resources.baseTest - Hitting URL : https://www.udemy.com/
+11:39:52.546 [main] DEBUG resources.baseTest - Clicking on Login link
+11:39:58.510 [main] INFO  resources.baseTest - Login Link is clicked
+11:39:58.510 [main] DEBUG resources.baseTest - Sending keys in email field
+11:39:58.801 [main] INFO  resources.baseTest - Email id is provided
+11:39:58.801 [main] DEBUG resources.baseTest - Sending keys in password field
+11:39:59.043 [main] INFO  resources.baseTest - password is provided
+11:39:59.043 [main] DEBUG resources.baseTest - Clicking on Login button
+11:40:10.557 [main] INFO  resources.baseTest - Login button is clicked
+11:40:10.569 [main] INFO  resources.baseTest - Closing browser
+11:56:01.012 [main] INFO  resources.baseTest - Initializing Browser
+11:56:09.066 [main] INFO  resources.baseTest - Maximizing Window
+11:56:09.226 [main] INFO  resources.baseTest - Deleting All Cookies
+11:56:09.243 [main] INFO  resources.baseTest - Assigning Implicit Wait
+11:56:09.259 [main] INFO  resources.baseTest - Hitting URL : https://www.udemy.com/
+11:56:14.679 [main] DEBUG resources.baseTest - Clicking on Login link
+11:56:19.523 [main] INFO  resources.baseTest - Login Link is clicked
+11:56:19.523 [main] DEBUG resources.baseTest - Sending keys in email field
+11:56:19.773 [main] INFO  resources.baseTest - Email id is provided
+11:56:19.773 [main] DEBUG resources.baseTest - Sending keys in password field
+11:56:19.923 [main] INFO  resources.baseTest - password is provided
+11:56:19.924 [main] DEBUG resources.baseTest - Clicking on Login button
+11:56:22.895 [main] INFO  resources.baseTest - Login button is clicked
+11:56:22.913 [main] INFO  resources.baseTest - Closing browser
+12:10:05.980 [main] INFO  resources.baseTest - Initializing Browser
+12:10:11.104 [main] INFO  resources.baseTest - Maximizing Window
+12:10:11.271 [main] INFO  resources.baseTest - Deleting All Cookies
+12:10:11.285 [main] INFO  resources.baseTest - Assigning Implicit Wait
+12:10:11.293 [main] INFO  resources.baseTest - Hitting URL : https://www.udemy.com/
+12:10:14.701 [main] DEBUG resources.baseTest - Clicking on Login link
+12:10:20.062 [main] INFO  resources.baseTest - Login Link is clicked
+12:10:20.062 [main] DEBUG resources.baseTest - Sending keys in email field
+12:10:20.278 [main] INFO  resources.baseTest - Email id is provided
+12:10:20.279 [main] DEBUG resources.baseTest - Sending keys in password field
+12:10:20.443 [main] INFO  resources.baseTest - password is provided
+12:10:20.444 [main] DEBUG resources.baseTest - Clicking on Login button
+12:10:23.384 [main] INFO  resources.baseTest - Login button is clicked
+12:10:23.401 [main] INFO  resources.baseTest - Closing browser
+12:11:29.601 [main] INFO  resources.baseTest - Initializing Browser
+12:11:34.081 [main] INFO  resources.baseTest - Maximizing Window
+12:11:34.250 [main] INFO  resources.baseTest - Deleting All Cookies
+12:11:34.266 [main] INFO  resources.baseTest - Assigning Implicit Wait
+12:11:34.275 [main] INFO  resources.baseTest - Hitting URL : https://www.udemy.com/
+12:11:37.595 [main] DEBUG resources.baseTest - Clicking on Login link
+12:11:46.446 [main] INFO  resources.baseTest - Login Link is clicked
+12:11:46.446 [main] DEBUG resources.baseTest - Sending keys in email field

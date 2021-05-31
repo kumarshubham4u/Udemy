@@ -1,0 +1,10 @@
+12:12:02.504 [main] INFO  resources.baseTest - Closing browser
+12:12:16.345 [main] INFO  resources.baseTest - Initializing Browser
+12:12:21.012 [main] INFO  resources.baseTest - Maximizing Window
+12:12:21.180 [main] INFO  resources.baseTest - Deleting All Cookies
+12:12:21.192 [main] INFO  resources.baseTest - Assigning Implicit Wait
+12:12:21.202 [main] INFO  resources.baseTest - Hitting URL : https://www.udemy.com/
+12:12:24.946 [main] DEBUG resources.baseTest - Clicking on Login link
+12:12:30.837 [main] INFO  resources.baseTest - Login Link is clicked
+12:12:30.838 [main] DEBUG resources.baseTest - Sending keys in email field
+12:12:46.399 [main] INFO  resources.baseTest - Closing browser
